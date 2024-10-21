@@ -5,8 +5,10 @@ This repository contains two separate Python tools, each designed as a lab assig
 
 
 
+
 Laboration 1: Nmap Scanner
 Laboration 2: Encryption/Decryption Tool
+
 
 
 
@@ -47,6 +49,8 @@ Menu Options:
 Outputs:
 The scan results will be displayed in the terminal.
 The results will be saved, and if the user wants they can save it to a .txt-file.
+
+
 
 
 
