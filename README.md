@@ -39,11 +39,16 @@ Run the script to perform scans on the listed IP addresses:
 
 Menu Options:
 
-1: Scan IP addresses.\n
+1: Scan IP addresses.
+
 2: Add an IP address to the .txt file.
+
 3: Delete an IP address from the .txt file.
+
 4: View all IP addresses currently in the .txt file.
+
 5: Clear all IP addresses from the .txt file.
+
 6: Exit the program.
 
 Outputs:
