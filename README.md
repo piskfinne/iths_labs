@@ -14,16 +14,16 @@ Laboration 2: Encryption/Decryption Tool
 
 Laboration 1: Nmap Scanner
 Description:
-The Nmap Scanner is a Python script that reads a list of IP addresses from a text file, performs a port scan on the specified IPs using Nmap, and outputs the results to the terminal and if the user wants, to a text file.
+    The Nmap Scanner is a Python script that reads a list of IP addresses from a text file, performs a port scan on the specified IPs using Nmap, and outputs the results to the terminal and if the user wants, to a text file.
 
 Features:
-Accepts a list of IP addresses from a file (ip_addresses.txt).
-Scans each IP for open ports in the range 1-1024 using Nmap.
-Outputs the scan results to the terminal and saves them to a file.
-Offers a menu to add, delete, view, or clear IP addresses from the list.
+    Accepts a list of IP addresses from a file (ip_addresses.txt).
+    Scans each IP for open ports in the range 1-1024 using Nmap.
+    Outputs the scan results to the terminal and saves them to a file.
+    Offers a menu to add, delete, view, or clear IP addresses from the list.
 How to Use:
-Install the required libraries:
-Ensure you have Nmap installed on your system. Also, install the python-nmap library:
+    Install the required libraries:
+    Ensure you have Nmap installed on your system. Also, install the python-nmap library:
 
 "pip install python-nmap"  
 
@@ -54,6 +54,10 @@ Menu Options:
 Outputs:
 The scan results will be displayed in the terminal.
 The results will be saved, and if the user wants they can save it to a .txt-file.
+
+
+
+
 
 
 
